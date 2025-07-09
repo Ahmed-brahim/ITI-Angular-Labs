@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmed Ibrahim - Full-Stack .NET & Angular Developer | Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    
+    @keyframes slideUp {
+      0% { transform: translateY(30px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+    
+    @keyframes scaleIn {
+      0% { transform: scale(0.9); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    
+    .animate-fade-in {
+      animation: fadeIn 0.6s ease-out;
+    }
+    
+    .animate-slide-up {
+      animation: slideUp 0.8s ease-out;
+    }
+    
+    .animate-scale-in {
+      animation: scaleIn 0.5s ease-out;
+    }
+    
+    .animate-float {
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    .animate-pulse-slow {
+      animation: pulse 3s ease-in-out infinite;
+    }
+    
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+  </style>
+</head>
+
+<body class="bg-slate-900 text-white font-sans overflow-x-hidden">
+  <!-- Navigation -->
+<app-nav-bar></app-nav-bar>
+
+  <!-- Hero Section -->
+  <app-hero></app-hero>
+
+  <!-- About Section -->
+ <app-about></app-about>
+
+  <!-- Skills Section -->
+  <app-skills></app-skills>
+
+  <!-- Projects Section -->
+  <app-projects></app-projects>
+
+  <!-- Education Section -->
+  <app-education></app-education>
+
+  <!-- Certificates Section -->
+  <app-certficates></app-certficates>
+  <!-- Contact Section -->
+  <app-contact></app-contact>
+  <!-- Footer -->
+  <app-footer></app-footer>
+  <!-- script -->
+  <app-script></app-script>
+</body>
+</html>

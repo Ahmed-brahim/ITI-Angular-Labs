@@ -1,0 +1,83 @@
+  <section id="contact" class="py-24 px-6 bg-gradient-to-b from-slate-900 to-slate-800">
+    <div class="container mx-auto">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-emerald-500 bg-clip-text text-transparent">
+          Get In Touch
+        </h2>
+        <div class="w-24 h-1 bg-gradient-to-r from-blue-500 to-emerald-500 mx-auto mb-8"></div>
+        <p class="text-xl text-gray-400 max-w-2xl mx-auto">
+          Let's discuss your next project or explore opportunities to work together.
+        </p>
+      </div>
+
+      <div class="grid lg:grid-cols-2 gap-12 max-w-7xl mx-auto">
+        <!-- Contact Info -->
+        <div class="space-y-8">
+          <div class="flex items-center space-x-6 p-6 bg-slate-800/50 rounded-2xl border border-slate-600 hover:border-blue-500/50 transition-all duration-300">
+            <div class="w-16 h-16 bg-gradient-to-br from-blue-500/20 to-blue-500/10 rounded-2xl flex items-center justify-center border border-blue-500/20">
+              <svg class="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-bold text-white mb-1">Email</h3>
+              <a href="mailto:ahmedibrahim000074@gmail.com" class="text-gray-300 hover:text-blue-500 transition-colors duration-300 text-lg">
+                ahmedibrahim000074&#64;gmail.com
+              </a>
+            </div>
+          </div>
+
+          <div class="flex items-center space-x-6 p-6 bg-slate-800/50 rounded-2xl border border-slate-600 hover:border-emerald-500/50 transition-all duration-300">
+            <div class="w-16 h-16 bg-gradient-to-br from-emerald-500/20 to-emerald-500/10 rounded-2xl flex items-center justify-center border border-emerald-500/20">
+              <svg class="w-8 h-8 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-bold text-white mb-1">Phone</h3>
+              <a href="tel:+201279790818" class="text-gray-300 hover:text-emerald-500 transition-colors duration-300 text-lg">
+                +20 127 979 0818
+              </a>
+            </div>
+          </div>
+
+          <div class="flex items-center space-x-6 p-6 bg-slate-800/50 rounded-2xl border border-slate-600 hover:border-amber-500/50 transition-all duration-300">
+            <div class="w-16 h-16 bg-gradient-to-br from-amber-500/20 to-amber-500/10 rounded-2xl flex items-center justify-center border border-amber-500/20">
+              <svg class="w-8 h-8 text-amber-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+            </div>
+            <div>
+              <h3 class="text-xl font-bold text-white mb-1">Location</h3>
+              <p class="text-gray-300 text-lg">Cairo, Egypt</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="bg-slate-800/80 backdrop-blur-xl p-10 rounded-3xl border border-slate-600">
+          <form class="space-y-8" onsubmit="handleFormSubmit(event)">
+            <div>
+              <label for="name" class="block text-lg font-semibold text-white mb-3">Name</label>
+              <input type="text" id="name" name="name" required class="w-full px-6 py-4 bg-slate-900/50 border border-slate-600 rounded-xl text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300 text-lg">
+            </div>
+
+            <div>
+              <label for="email" class="block text-lg font-semibold text-white mb-3">Email</label>
+              <input type="email" id="email" name="email" required class="w-full px-6 py-4 bg-slate-900/50 border border-slate-600 rounded-xl text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300 text-lg">
+            </div>
+
+            <div>
+              <label for="message" class="block text-lg font-semibold text-white mb-3">Message</label>
+              <textarea id="message" name="message" rows="6" required class="w-full px-6 py-4 bg-slate-900/50 border border-slate-600 rounded-xl text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-300 resize-none text-lg"></textarea>
+            </div>
+
+            <button type="submit" class="w-full bg-gradient-to-r from-blue-500 to-emerald-500 hover:from-blue-600 hover:to-emerald-600 px-8 py-4 rounded-xl text-white font-bold text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-2xl shadow-blue-500/25">
+              Send Message
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
