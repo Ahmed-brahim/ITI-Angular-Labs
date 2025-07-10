@@ -1,0 +1,17 @@
+<div class="min-h-screen bg-gray-100 p-8">
+  <h1 class="text-4xl font-bold text-center mb-8 text-blue-600">Student Management</h1>
+
+  <app-student-form
+    [student]="editingStudent"
+    (add)="addStudent($event)"
+    (update)="updateStudent($event)">
+  </app-student-form>
+
+  <hr class="my-8 border-gray-300" />
+
+  <app-student-table
+    [students]="students"
+    (edit)="startEdit($event)"
+    (delete)="deleteStudent($event)">
+  </app-student-table>
+</div>
