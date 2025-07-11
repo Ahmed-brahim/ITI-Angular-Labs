@@ -1,0 +1,56 @@
+<div class="p-5 bg-gray-100 min-h-screen">
+  <input
+    type="text"
+    [(ngModel)]="searchText"
+    placeholder="Search by name or title"
+    class="mb-6 w-full md:w-1/2 p-3 rounded-md shadow-sm border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+  />
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <p-card
+      *ngFor="let student of filteredStudents"
+      [style]="{ width: '33%', overflow: 'hidden', margin: '10 auto' }"
+      [ngClass]="{
+        'border-l-4 border-red-500': student.role === 'admin',
+        'border-l-4 border-yellow-500': student.role === 'moderator',
+        'border-l-4 border-green-500': student.role === 'user'
+      }"
+      class="bg-white shadow-md"
+    >
+      <ng-template #title>
+        <div class="flex justify-between items-center">
+          <span class="font-bold text-gray-800 text-lg">
+            {{ student.firstName }} {{ student.lastName }}
+          </span>
+          <span
+            class="text-xs px-3 py-1 rounded-full text-white uppercase font-semibold"
+            [ngClass]="{
+              'bg-red-500': student.role === 'admin',
+              'bg-yellow-500 text-gray-900': student.role === 'moderator',
+              'bg-green-500': student.role === 'user'
+            }"
+          >
+            {{ student.role }}
+          </span>
+        </div>
+      </ng-template>
+
+      <ng-template #subtitle>
+        <span class="text-sm text-gray-600">{{ student.university }}</span>
+      </ng-template>
+
+      <div class="text-sm text-gray-700 space-y-1 mt-2">
+        <p>{{ student.company.title }} &#64; {{ student.company.name }}</p>
+        <p>📧 {{ student.email }}</p>
+        <p>📞 {{ student.phone }}</p>
+      </div>
+
+      <ng-template #footer>
+        <div class="flex gap-2 mt-4">
+          <p-button label="Message" class="w-full" />
+          <p-button label="View" severity="secondary" class="w-full" [outlined]="true" />
+        </div>
+      </ng-template>
+    </p-card>
+  </div>
+</div>
