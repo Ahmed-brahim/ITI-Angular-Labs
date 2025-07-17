@@ -58,6 +58,13 @@ namespace WebApplication1
                         Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
                 };
             });
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins",
+                    builder => builder.AllowAnyOrigin()
+                                      .AllowAnyMethod()
+                                      .AllowAnyHeader());
+            });
 
             builder.Services.AddAuthorization();
 
@@ -75,6 +82,7 @@ namespace WebApplication1
             app.UseHttpsRedirection();
 
             app.UseAuthentication();
+            app.UseCors("AllowAllOrigins"); 
             app.UseAuthorization();
 
 

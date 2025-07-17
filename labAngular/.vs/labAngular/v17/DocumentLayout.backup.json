@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250717083034_addCartProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250717083034_addCartProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,22 +83,6 @@
       "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,16 +95,12 @@
       "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250715141724_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250715141724_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\migrations\\20250715141724_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250715141724_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250715141152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Migrations\\20250715141152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|d:\\college\\skills\\full stack\\iti\\angular\\labs\\labangular\\webapplication1\\migrations\\20250715141152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCF9C4A-26A1-437E-A0E4-41F14F4385E0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250715141152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,12 +122,155 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dto\\CartItemDto.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CartItemDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\CartItemDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:47:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dto\\CreateProductDto.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CreateProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:46:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dto\\ProductDto.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:45:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T08:42:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T08:42:11.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:39:49.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:38:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250717083034_addCartProduct.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250717083034_addCartProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250717083034_addCartProduct.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250717083034_addCartProduct.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250717083034_addCartProduct.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:30:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CartItem.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:24:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:23:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Cart.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Cart.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:21:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs*",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAawHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T15:23:30.426Z",
@@ -91,46 +278,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Dto\\UpdateUserDto.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UpdateUserDto.cs*",
-              "RelativeToolTip": "WebApplication1\\Dto\\UpdateUserDto.cs*",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UpdateUserDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\UpdateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:18:19.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:18:19.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Dto\\CreateUserDto.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CreateUserDto.cs*",
-              "RelativeToolTip": "WebApplication1\\Dto\\CreateUserDto.cs*",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\CreateUserDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\CreateUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:17:49.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:17:49.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Dto\\UserDto.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UserDto.cs*",
-              "RelativeToolTip": "WebApplication1\\Dto\\UserDto.cs*",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\UserDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:16:54.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:16:54.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WebApplication1.http",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\WebApplication1.http",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
@@ -143,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Dto\\LoginDto.cs",
@@ -151,12 +335,11 @@
               "RelativeToolTip": "WebApplication1\\Dto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:34:37.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:34:37.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Dto\\RegisterDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Dto\\RegisterDto.cs",
@@ -164,25 +347,24 @@
               "RelativeToolTip": "WebApplication1\\Dto\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:34:07.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:34:07.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA+AAAAAAAAAA==",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T14:20:20.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "20250715141724_init2.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250715141724_init2.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250715141724_init2.cs",
@@ -190,12 +372,11 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20250715141724_init2.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:17:24.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:17:24.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "20250715141152_init.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Migrations\\20250715141152_init.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250715141152_init.cs",
@@ -203,12 +384,11 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20250715141152_init.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:11:53.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:11:53.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -221,33 +401,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwEcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv1QAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T13:53:11.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\Data\\AppDbContext.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T13:51:16.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Angular\\labs\\labAngular\\WebApplication1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
@@ -255,8 +435,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:38:06.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:38:06.609Z"
             }
           ]
         }
